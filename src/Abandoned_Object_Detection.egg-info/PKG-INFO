@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Abandoned-Object-Detection
+Version: 0.0.1
+Summary: A small python package for CNN app
+Home-page: https://github.com/Viditnegi/Abandoned_object_detection
+Author: Viditnegi
+Author-email: viditsn@gmail.com
+Project-URL: Bug Tracker, https://github.com/Viditnegi/Abandoned_object_detection/issues
+
+## This is abandoned object detection
