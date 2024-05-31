@@ -27,3 +27,8 @@ The object must not be moving and should be stationary.
 We tested the project on some videos and noticed the model is performing very well on scenes that are not heavily crowded and where range of the cctv is close-medium (the footage does not cover a large area), but struggles to detect some bags in a crowded or dim lit scene
 To further improve upon this, more data needs to be curated and annotated precisely to cover a variety of situations for the model to be trained on.
 Also we need to do hyperparameter tuning, so that the model generalizes better.
+
+
+# Test Images
+![temp](https://github.com/Viditnegi/Abandoned-Object-Detection/assets/106267998/4931c8df-a8e8-46cf-af3a-757df7beda7c)
+
