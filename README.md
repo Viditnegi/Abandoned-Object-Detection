@@ -36,3 +36,11 @@ Also we need to do hyperparameter tuning, so that the model generalizes better.
 ![temp](https://github.com/Viditnegi/Abandoned-Object-Detection/assets/106267998/9578ac95-35b2-4df9-b965-645d6495a3c6) 
 ![temp2](https://github.com/Viditnegi/Abandoned-Object-Detection/assets/106267998/cc21ad97-052e-470d-a77c-466a1db96eee)
 
+
+# Setup
+1) Python env 3.7.16
+2) Install cuda and cuDNN
+3) Install pytorch and tensorflow for the corresponding cuda versions. (ref. https://pytorch.org/get-started/previous-versions/)
+4) pip install -r requirements.txt
+5) run src/main.py
+
