@@ -1,6 +1,7 @@
 
 # Abandoned Object Detection 
 
+For any query contact at viditsn@gmail.com
 ## Problem Statement - 
 
 This project was built to detect all the abandoned or unattended objects (mainly bags) in crowded areas through cctv/surveillance footage.
