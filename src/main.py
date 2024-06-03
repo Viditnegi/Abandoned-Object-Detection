@@ -11,15 +11,15 @@ from utils.utils import calculate_distance
 
 # video_path = os.path.join('.', 'ABODA','video5.avi')
 # video_path = os.path.join('.', 'ABODA','new','people.mp4')
-video_path = r'test_data\baggage.mp4'
+video_path = r'test_data/baggage.mp4'
 # video_path = r'D:\vidit\Abandoned-Object-Detection\test_data\Left Luggage Detection.mp4'
 # video_path = r'D:\vidit\Abandoned-Object-Detection\test_data\videoplayback.mp4'
 # video_path = r'D:\vidit\Abandoned-Object-Detection\ABODA\new\VIRAT_S_040103_05_000729_000804.mp4'
 
-image_path = r'test_data\suitcases.png'
+image_path = r'test_data/suitcases.png'
 
 # model = YOLO(r"D:\vidit\Abandoned-Object-Detection\yolo_models\yolov8m_temp.pt")
-model = YOLO(r"yolo_models\yolov8m.pt")
+model = YOLO(r"yolo_models/yolov8m.pt")
 # model = YOLO('yolov8m')
 class_dict = model.names
 
