@@ -19,7 +19,7 @@ video_path = r'test_data\baggage.mp4'
 image_path = r'test_data\suitcases.png'
 
 # model = YOLO(r"D:\vidit\Abandoned-Object-Detection\yolo_models\yolov8m_temp.pt")
-model = YOLO(r"yolo_models\yolov8m_all_data_all_classes.pt")
+model = YOLO(r"yolo_models\yolov8m.pt")
 # model = YOLO('yolov8m')
 class_dict = model.names
 

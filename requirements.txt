@@ -1,2 +1,11 @@
+opencv_python
 ultralytics
+tensorflow_gpu
+torch
+albumentations
+matplotlib
+numpy
+scikit_learn
+scipy
+setuptools
 -e .
